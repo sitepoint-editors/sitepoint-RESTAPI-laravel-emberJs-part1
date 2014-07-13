@@ -12,6 +12,7 @@
   ],
   "dependencies": {
     "foundation": "zurb/bower-foundation#~5.3.0",
-    "ember": "components/ember#~1.5.1"
+    "ember": "components/ember#~1.5.1",
+    "ember-data": "components/ember-data#~0.0.14"
   }
 }
