@@ -9,7 +9,7 @@ keys:
     - /home/aleksanderkoko/.ssh/id_rsa
 
 folders:
-    - map: /home/aleksanderkoko/Documents/photo-upload/myCode
+    - map: myCode
       to: /home/vagrant/Code
 
 sites:
